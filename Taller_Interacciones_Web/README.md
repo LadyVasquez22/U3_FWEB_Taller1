@@ -44,4 +44,4 @@ Taller_Interacciones_Web/
 
 ## Autor
 
-Complete aquí el nombre del estudiante.
+Lady Vasquez
